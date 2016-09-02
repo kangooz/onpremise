@@ -7,14 +7,14 @@
 # Mail Server #
 ###############
 
-# mail.backend: 'smtp'  # Use dummy if you want to disable email entirely
-# mail.host: 'localhost'
-# mail.port: 25
-# mail.username: ''
-# mail.password: ''
+ mail.backend: 'imap'  # Use dummy if you want to disable email entirely
+ mail.host: 'SSL0.OVH.NET'
+ mail.port: 587
+ mail.username: 'sentry@you2you.fr'
+ mail.password: 'Kangooz@64'
 # mail.use-tls: false
 # The email address to send on behalf of
-# mail.from: 'root@localhost'
+ mail.from: 'sentry@you2you.fr'
 
 # If you'd like to configure email replies, enable this.
 # mail.enable-replies: false
