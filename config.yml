@@ -7,8 +7,8 @@
 # Mail Server #
 ###############
 
- mail.backend: 'imap'  # Use dummy if you want to disable email entirely
- mail.host: 'SSL0.OVH.NET'
+ mail.backend: 'smtp'  # Use dummy if you want to disable email entirely
+ mail.host: 'smtp.you2you.fr'
  mail.port: 587
  mail.username: 'sentry@you2you.fr'
  mail.password: 'sentryEmailPass'
