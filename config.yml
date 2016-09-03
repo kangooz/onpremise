@@ -9,10 +9,10 @@
 
  mail.backend: 'smtp'  # Use dummy if you want to disable email entirely
  mail.host: 'smtp.you2you.fr'
- mail.port: 587
+ mail.port: 465
  mail.username: 'sentry@you2you.fr'
  mail.password: 'sentryEmailPass'
- mail.use-tls: false
+ mail.use-tls: true
 # The email address to send on behalf of
  mail.from: 'sentry@you2you.fr'
  mail.list-namespace: 'you2you.fr'
