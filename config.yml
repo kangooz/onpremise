@@ -14,7 +14,7 @@
  mail.password: 'y8lXwbcVVEOLh2ij3RGNug'
  mail.use-tls: true
 # The email address to send on behalf of
- mail.from: 'sentry@you2you.fr'
+ mail.from: 'dev@you2you.fr'
  mail.list-namespace: 'you2you.fr'
  
 # If you'd like to configure email replies, enable this.
