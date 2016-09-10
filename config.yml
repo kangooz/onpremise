@@ -8,7 +8,7 @@
 ###############
 
  mail.backend: 'smtp'  # Use dummy if you want to disable email entirely
- mail.host: 'mtp.gmail.com'
+ mail.host: 'smtp.gmail.com'
  mail.port: 587
  mail.username: 'dev.y2y@gmail.com'
  mail.password: ''
